@@ -8,7 +8,7 @@
 ## 0. FINAL APPROACH
 
 <!-- SHARED LINE — COMMAND AND FIELD OPS BOTH REVISE THIS -->
-Final approach: UNDECIDED — awaiting division input
+Final approach: DIRECT ASSAULT
 <!-- END SHARED LINE -->
 
 ---
@@ -32,15 +32,15 @@ FRAGMENT 1 = [ not yet recovered ]
 ## 2. FIELD OPERATIONS
 *Owner: Agent 2 — edit only inside this section*
 
-Status: AWAITING INPUT
+Status: CONFIRMED
 
 Deployment window:
-- Earliest:
-- Latest:
+- Earliest: 22 July
+- Latest: 23 July
 
 Recovered fragment:
 ```
-FRAGMENT 2 = [ not yet recovered ]
+FRAGMENT 2 = RUNS
 ```
 
 ---
