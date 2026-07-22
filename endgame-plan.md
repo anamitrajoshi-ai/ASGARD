@@ -24,7 +24,7 @@ Authorisation chain:
 
 Recovered fragment:
 ```
-FRAGMENT 1 = [ not yet recovered ]
+FRAGMENT 1 = TIME
 ```
 
 ---
