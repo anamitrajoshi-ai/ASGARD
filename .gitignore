@@ -1,0 +1,12 @@
+/node_modules
+*.tmp
+*.log
+*.db
+*.bak
+*.swp
+/dist
+/build
+/temp
+/.vscode
+/.DS_Store
+desktop.ini
