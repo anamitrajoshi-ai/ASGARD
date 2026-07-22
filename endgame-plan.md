@@ -8,7 +8,7 @@
 ## 0. FINAL APPROACH
 
 <!-- SHARED LINE — COMMAND AND FIELD OPS BOTH REVISE THIS -->
-Final approach: UNDECIDED — awaiting division input
+Final approach: SILENT INFILTRATION
 <!-- END SHARED LINE -->
 
 ---
@@ -48,7 +48,7 @@ FRAGMENT 2 = [ not yet recovered ]
 ## 3. TECHNICAL DIVISION
 *Owner: Agent 3 — edit only inside this section*
 
-Status: AWAITING INPUT
+Status: CONFIRMED
 
 Equipment required:
 - Primary:
@@ -56,7 +56,7 @@ Equipment required:
 
 Recovered fragment:
 ```
-FRAGMENT 3 = [ not yet recovered ]
+FRAGMENT 3 = BACKWARD
 ```
 
 ---
